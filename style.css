@@ -76,6 +76,7 @@ body {
     animation: scaleCricle 2s 16s forwards ease-in-out;
 }
 #btn__letter{
+    color: #000000;
     position: relative;
     margin-top: 30px;
     background-color: var(--color-text-pink);
